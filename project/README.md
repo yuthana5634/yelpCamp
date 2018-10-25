@@ -1,3 +1,0 @@
-# FirstGit
-# FirstGit
-# FirstGit
